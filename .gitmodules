@@ -22,3 +22,6 @@
 [submodule "mob_stone_monster"]
 	path = stone_monster
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_stone_monster.git
+[submodule "mob_tree_monster"]
+	path = tree_monster
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_tree_monster.git
