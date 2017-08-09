@@ -1,0 +1,3 @@
+[submodule "mob_dungeon_master"]
+	path = dungeon_master
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_dungeon_master.git
