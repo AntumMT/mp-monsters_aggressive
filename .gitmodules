@@ -1,3 +1,6 @@
+[submodule "mob_dirt_monster"]
+	path = dirt_monster
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_dirt_monster.git
 [submodule "mob_dungeon_master"]
 	path = dungeon_master
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_dungeon_master.git
