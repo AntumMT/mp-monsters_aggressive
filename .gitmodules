@@ -10,3 +10,6 @@
 [submodule "mob_mese_monster"]
 	path = mese_monster
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_mese_monster.git
+[submodule "mob_oerkki"]
+	path = oerkki
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_oerkki.git
