@@ -19,3 +19,6 @@
 [submodule "mob_spider"]
 	path = spider
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_spider.git
+[submodule "mob_stone_monster"]
+	path = stone_monster
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_stone_monster.git
