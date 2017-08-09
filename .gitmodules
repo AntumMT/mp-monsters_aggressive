@@ -7,4 +7,6 @@
 [submodule "mob_lava_flan"]
 	path = lava_flan
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_lava_flan.git
-	
+[submodule "mob_mese_monster"]
+	path = mese_monster
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_mese_monster.git
