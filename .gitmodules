@@ -31,3 +31,6 @@
 [submodule "slimes_redo"]
 	path = slimes
 	url = git://github.com/TomasJLuis/mt-slimes-redone.git
+[submodule "sneeker"]
+	path = sneeker
+	url = https://AntumDeluge@github.com/AntumMT/mod-sneeker.git
