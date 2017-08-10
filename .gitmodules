@@ -28,3 +28,6 @@
 [submodule "mobs_goblins"]
 	path = goblins
 	url = git://github.com/FreeLikeGNU/mobs_goblins.git
+[submodule "slimes_redo"]
+	path = slimes
+	url = git://github.com/TomasJLuis/mt-slimes-redone.git
