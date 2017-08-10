@@ -25,3 +25,6 @@
 [submodule "mob_tree_monster"]
 	path = tree_monster
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_tree_monster.git
+[submodule "mobs_goblins"]
+	path = goblins
+	url = git://github.com/FreeLikeGNU/mobs_goblins.git
