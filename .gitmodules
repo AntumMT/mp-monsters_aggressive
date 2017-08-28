@@ -31,3 +31,6 @@
 [submodule "sneeker"]
 	path = sneeker
 	url = https://AntumDeluge@github.com/AntumMT/mod-sneeker.git
+[submodule "mob_mese_dragon"]
+	path = mese_dragon
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_mese_dragon.git
